@@ -8,4 +8,4 @@
 </p>
 
 ## About this project
-- Proyecto simple de laravel que realiza validaciones a un formulario.
+- Proyecto simple de laravel 10 y Vue.js 3 que simula un Ecommerce simple con un Login
